@@ -5,3 +5,4 @@ catalog, circulate, and track various materials such as books, journals, multime
 library's collection. The primary objective of an LMS is to streamline library operations,
 enhance user experience, and improve access to information for patrons.
 This library systemn is a basic demonstration of how diffrent systems could work
+It doesnt have a frontend to look out for just runs on the terminal 
